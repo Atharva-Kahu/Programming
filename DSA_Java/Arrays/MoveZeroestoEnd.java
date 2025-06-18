@@ -21,7 +21,7 @@ public class MoveZeroestoEnd {
             return arr1;
 
         } 
-
+// TODO Auto-generated method stub
         for (int i = j+1; i <n; i++){
             if(arr1[i]!=0){
                 int temp = arr1[i];
