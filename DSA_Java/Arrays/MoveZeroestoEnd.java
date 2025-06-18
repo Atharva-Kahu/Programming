@@ -10,7 +10,6 @@ public class MoveZeroestoEnd {
     }
 
     private static int[] MoveZero(int[] arr1, int n) {
-        // TODO Auto-generated method stub
         int j = -1;
         for(int i=0;i<n;i++){
             if(arr1[i]==0){
