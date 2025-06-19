@@ -7,7 +7,6 @@ public class SingleNumber {
     }
 
     static int single(int[] arr1, int n) {
-        
         for (int i=0; i<n;i++){
             int tempcount = 0;
             for (int j=0;j<n;j++){
@@ -21,7 +20,6 @@ public class SingleNumber {
             }
         }
         return 0;
-        // TODO Auto-generated method stub
     }
     
 }
