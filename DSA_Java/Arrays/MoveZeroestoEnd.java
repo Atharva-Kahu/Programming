@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 public class MoveZeroestoEnd {
     public static void main(String[] args) {
         int arr1[] = {1,2,3,0,0,0,2,0,3};

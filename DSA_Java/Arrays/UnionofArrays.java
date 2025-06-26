@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 public class UnionofArrays {
     public static void main(String[] args) {
         int arr1[] = {1,2,3,4,5,6};

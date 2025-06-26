@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 import java.util.Scanner;
 
 public class LinearSearch {

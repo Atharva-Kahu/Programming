@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 public class SecondElementInArray {
     public static void main(String[] args) {
         int arr1[] = {1,2,3,4,7,7,5}, n = 7;
