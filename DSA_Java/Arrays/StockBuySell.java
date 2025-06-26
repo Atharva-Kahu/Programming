@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 public class StockBuySell {
     public static void main(String[] args) {
         int arr1[] = {20,50,10,30};

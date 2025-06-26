@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 public class RotateArrayElements {
     public static void main(String[] args) {
         int arr1[] = {1,2,3,4,5,6,7};

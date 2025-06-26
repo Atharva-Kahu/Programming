@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 public class SingleNumber {
     public static void main(String[] args) {
         int arr1[] = {1,3,2,2,4,7,4,3,5,1};

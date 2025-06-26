@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 public class CountMaxConsecutive {
     public static void main(String[] args) {
         int arr1[] = {0,1,1,0,0,1,1,1,1,0};

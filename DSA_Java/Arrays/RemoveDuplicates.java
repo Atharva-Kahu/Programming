@@ -1,3 +1,5 @@
+package DSA_Java.Arrays;
+
 public class RemoveDuplicates {
     
     public static void main(String[] args) {
