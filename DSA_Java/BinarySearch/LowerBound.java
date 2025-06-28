@@ -1,4 +1,4 @@
-package DSA_Java.BinarySearch;
+package BinarySearch;
 
 public class LowerBound {
     public static void main(String[] args) {
@@ -11,7 +11,6 @@ public class LowerBound {
 
     private static int LBound(int[] arr1, int target) {
         int n = arr1.length;
-        // TODO Auto-generated method stub
         int low = 0;
         int high = n-1;
         int ans = n;

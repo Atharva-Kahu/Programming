@@ -1,4 +1,4 @@
-package DSA_Java.Arrays;
+package Arrays;
 
 public class Sort2DArray {
     public static void main(String[] args) {
