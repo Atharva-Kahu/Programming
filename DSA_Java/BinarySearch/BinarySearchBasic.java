@@ -1,4 +1,4 @@
-package DSA_Java.BinarySearch;
+package BinarySearch;
 
 public class BinarySearchBasic {
     public static void main(String[] args) {

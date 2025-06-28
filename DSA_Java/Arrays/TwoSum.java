@@ -1,4 +1,4 @@
-package DSA_Java.Arrays;
+package Arrays;
 
 import java.lang.classfile.TypeAnnotation.TargetInfo;
 import java.util.Arrays;

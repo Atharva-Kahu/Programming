@@ -1,4 +1,4 @@
-package DSA_Java.BinarySearch;
+package BinarySearch;
 
 public class SearchInsertPosition {
     public static void main(String[] args) {
